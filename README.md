@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 # PuPHPet #
 
 [PuPHPet](https://puphpet.com) - A simple GUI to set up virtual machines for PHP development
